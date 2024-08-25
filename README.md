@@ -2,15 +2,18 @@
 
 ## 🌟 ನಮಸ್ಕಾರ | Konnichiwa | Bonjour | Hola 
 
-Hello, I'm [Ashok Kumar Srinivas!](https://youtube.com/androidabcd) 🇮🇳
 
+
+Hello, I'm [Ashok Kumar Srinivas!](https://youtube.com/androidabcd) 🇮🇳 Java and Kotlin technologies influencer.
+
+---
 ### 🌐 Shaping the Future of Tech with Indian Brilliance! 🚀
 
 - 🔭 **Current Mission:** Leading the mobile engineering team at Allstate Insurance, crafting one of the world’s most sophisticated insurance client mobile apps.
 - 🔄 **Past Adventures:** Engineering Manager for Mobile Apps at [Frontier Wallet](https://www.frontier.xyz/).
 - 🌟 **Previous Leadership:** Former CTO at Supersub.
 - 📚 **Author Spotlight:** Published works on WearOS and Firebase cloud technologies.
-- 🌱 **Learning Journey:** Immersed in Golang, Rust, Kotlin, Java, and Python.
+- 🌱 **Learning Journey:** Immersed in Golang, Rust, Kotlin, Java, Javascript and Python.
 - 👯 **Collaborative Spirit:** Open for exciting projects on my [YouTube channel](https://youtube.com/androidabcd).
 - 💬 **Tech Enthusiast:** Let’s chat about NFTs, Mobile Apps, Blockchain, AI, ML, or any tech curiosity you have.
 - 📫 **Stay Connected:** Follow me on [Twitter - @ashokslsk](https://twitter.com/ashokslsk).
