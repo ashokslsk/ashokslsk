@@ -3,7 +3,7 @@
 ## 🌟 ನಮಸ್ಕಾರ 🙏 | Konnichiwa | Bonjour | Hola | Hello, 
 
 
-I'm [Ashok Kumar Srinivas!](https://youtube.com/androidabcd) 🇮🇳 Java and Kotlin technologies influencer.
+I'm [Ashok Kumar Srinivas!](https://youtube.com/androidabcd) 🇮🇳 Java and Kotlin technologies expert.
 
 ---
 ### 🌐 Shaping the Future of Tech with Indian Brilliance! 🚀
